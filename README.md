@@ -54,7 +54,7 @@ KeyTrap is an interactive web application that demonstrates the working of Diffi
 ## Project Structure
 
 ```text
-KeyTrap/
+keytrap/
 │
 ├── backend/
 │   ├── crypto/
@@ -88,8 +88,8 @@ KeyTrap/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/KeyTrap.git
-cd KeyTrap
+git clone https://github.com/mohana-1810/keytrap.git
+cd keytrap
 ```
 
 ### 2. Set Up the Backend
