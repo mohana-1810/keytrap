@@ -36,7 +36,7 @@ KeyTrap is an interactive web application that demonstrates the working of Diffi
 - Comparison page for all three exchange scenarios.
 - Educational explanations and formula breakdowns.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Component | Technology |
 |---|---|
